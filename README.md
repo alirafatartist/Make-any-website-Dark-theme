@@ -1,5 +1,5 @@
 # Code
-Copy this code and put it in ```Console``` but you want to read this **[Note](#⚠️Note⚠️)**  before
+Copy this code and put it in ```Console``` but you want to read this **[Note](#Note)**  before
 ```js
 var cover = document.createElement("div"); 
 let css = ` 
@@ -18,7 +18,7 @@ document.body.appendChild(cover);
 ```
 # Make-any-website-Dark-theme
 ![image](https://github.com/alirafatartist/Make-any-website-Dark-theme/assets/89305319/781a29e8-c1f4-4e76-94db-e7f76167cc22)
-## ⚠️Note⚠️
+## Note
 
 > [!Note]  
 > if your website contain images the colors of image is reversed like this
