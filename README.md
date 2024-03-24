@@ -21,6 +21,6 @@ document.body.appendChild(cover);
 ## Note
 
 > [!Note]  
-> if your website contain images the colors of image is reversed like this
+> if your website contain images the colors of image are reversed like this
 >  # Before ![image](https://github.com/alirafatartist/Make-any-website-Dark-theme/assets/89305319/a0e2729b-09ef-456b-a810-bc6311fabb6c)
 > # After ![image](https://github.com/alirafatartist/Make-any-website-Dark-theme/assets/89305319/cf33bebe-1ffb-4140-acd4-1088be10fffe)
